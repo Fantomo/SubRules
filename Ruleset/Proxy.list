@@ -1,7 +1,11 @@
 # 代理列表
 
+# 域名关键字匹配
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,tiktok
+
 # Google && Other
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,copilot.microsoft.com
