@@ -2,8 +2,19 @@
 # 更新：2024-08-27 13:51:18
 # 数量：367条
 
+
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,bing
+
+
 # Instagram
 DOMAIN,instagram.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instagr.am
+
+# bing
+DOMAIN,bing.com
+DOMAIN-SUFFIX,bing.com
+
+
