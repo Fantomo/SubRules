@@ -10,10 +10,6 @@ DOMAIN,github.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 
-# bing
-DOMAIN,bing.com
-DOMAIN-SUFFIX,bing.com
-
 # Wikipedia
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-SUFFIX,wikipedia.org
