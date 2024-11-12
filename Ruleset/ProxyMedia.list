@@ -17,4 +17,8 @@ DOMAIN-SUFFIX,instagr.am
 DOMAIN,bing.com
 DOMAIN-SUFFIX,bing.com
 
+# Wikipedia
+DOMAIN-KEYWORD,wikipedia
+DOMAIN-SUFFIX,wikipedia.org
+
 
