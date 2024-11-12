@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,openai.com
 
 # copilot
 DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,studiostaticassetsprod.azureedge.net
 DOMAIN-SUFFIX,azureedge.net
 
 # meta
