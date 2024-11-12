@@ -8,14 +8,12 @@
 # DOMAIN-KEYWORD,gamma
 # DOMAIN-KEYWORD,phind
 
-# 域名后缀匹配
+# 域名匹配
 DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,meta.ai
+
+# 域名后缀匹配
 DOMAIN-SUFFIX,metademolab.com
 DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
@@ -24,7 +22,6 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
@@ -41,3 +38,16 @@ DOMAIN-SUFFIX,bortzmeyer.org
 DOMAIN-SUFFIX,lumalabs.ai
 DOMAIN-SUFFIX,gamma.app
 DOMAIN-SUFFIX,phind.com
+
+# chatgpt
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,openai.com
+
+# copilot
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,azureedge.net
+
+# meta
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,fbcdn.net
