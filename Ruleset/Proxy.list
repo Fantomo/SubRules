@@ -13,3 +13,8 @@ DOMAIN-SUFFIX,githubusercontent.com
 # Wikipedia
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-SUFFIX,wikipedia.org
+
+# docker
+DOMAIN-KEYWORD,docker
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
