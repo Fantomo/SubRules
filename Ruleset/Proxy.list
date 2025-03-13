@@ -8,7 +8,6 @@ DOMAIN-KEYWORD,wikipedia
 DOMAIN,github.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,bing.com,Proxy
 
 # Wikipedia
 DOMAIN-KEYWORD,wikipedia
