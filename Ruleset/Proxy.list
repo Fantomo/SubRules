@@ -2,13 +2,13 @@
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,github
-DOMAIN-KEYWORD,bing
 DOMAIN-KEYWORD,wikipedia
 
 # GitHub
 DOMAIN,github.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,bing.com,Proxy
 
 # Wikipedia
 DOMAIN-KEYWORD,wikipedia

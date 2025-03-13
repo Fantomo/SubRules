@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,aliyuncs.com
-DOMAIN-SUFFIX,fantomo.us.kg
-DOMAIN-SUFFIX,cn.bing.com
-DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,fantomo.us.
+
+# 域名配置
+DOMAIN,cn.bing.com
