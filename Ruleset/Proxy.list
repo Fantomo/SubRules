@@ -24,3 +24,8 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN,linktr.ee
 DOMAIN-KEYWORD,linktr
 DOMAIN-SUFFIX,linktr.ee
+
+# temu
+DOMAIN,temu.com
+DOMAIN-KEYWORD,temu
+DOMAIN-SUFFIX,temu.com
