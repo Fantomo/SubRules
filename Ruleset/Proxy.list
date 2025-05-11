@@ -21,5 +21,6 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
 
 # linktree
+DOMAIN,linktr.ee
 DOMAIN-KEYWORD,linktr
 DOMAIN-SUFFIX,linktr.ee
