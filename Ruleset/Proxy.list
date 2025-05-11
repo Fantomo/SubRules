@@ -19,3 +19,7 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-KEYWORD,docker
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
+
+# linktree
+DOMAIN-KEYWORD,linktr
+DOMAIN-SUFFIX,linktr.ee
